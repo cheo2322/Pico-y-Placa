@@ -1,5 +1,5 @@
 # Pico-y-Placa
-This program predict whether a car could or not circulate using the Pico y Placa (Hoy no circula) system of Quito. The inputs are a license plate number (the full number, not the last digit), a date (as a String), and a time, and the program return whether or not that car can be on the road, as a message.
+This program predict whether a car could or not circulate using the Pico y Placa (Hoy no circula) system of Quito. The inputs are a license plate number (the full number, not the last digit), a date (as a String), and a time, and the program return whether or not that car can be on the road.
 
 Rules:
 
@@ -26,3 +26,11 @@ Afternoon: 16:00 - 19:30
 - From September 9th, 2019:
 
 Everyday: 5:00 - 20:00
+
+In the 'basic test' script we test the program with some basic examples entered
+manually.
+
+In the 'manual_test.py' script the console asks for the inputs, then process 
+it and returns the respective message.
+
+In the 'automated_test.py' file we have several automatic test for this program.
