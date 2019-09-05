@@ -9,9 +9,9 @@ Wednesday:  5,6
 Thursday:   7,8
 Friday:     9,0
 
-Before September 9th, 2019 the next schedule rules:
+- Before September 9th, 2019 the next schedule rules:
 Morning:   7:00 - 9:30
 Afternoon: 16:00 - 19:30
 
-From September 9th, 2019:
+- From September 9th, 2019:
 Everyday: 5:00 - 20:00
