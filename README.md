@@ -27,7 +27,7 @@ Afternoon: 16:00 - 19:30
 
 Everyday: 5:00 - 20:00
 
-In the 'basic test' script we test the program with some basic examples entered
+In the 'basic_test' script we test the program with some basic examples entered
 manually.
 
 In the 'manual_test.py' script the console asks for the inputs, then process 
