@@ -30,7 +30,7 @@ Everyday: 5:00 - 20:00
 In the 'basic_test' script we test the program with some basic examples entered
 manually.
 
-In the 'manual_test.py' script the console asks for the inputs, then process 
-it and returns the respective message.
+#In the 'manual_test.py' script the console asks for the inputs, then process 
+#it and returns the respective message.
 
-In the 'automated_test.py' file we have several automatic test for this program.
+#In the 'automated_test.py' file we have several automatic test for this program.
